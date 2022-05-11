@@ -15,3 +15,5 @@ go run greet.go -f etc/greet-api.yaml
 ```shell
 curl -i -X GET http://localhost:8888/from/you
 ```
+
+test ssh github
