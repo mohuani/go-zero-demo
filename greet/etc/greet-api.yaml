@@ -1,0 +1,8 @@
+Name: greet-api
+Host: 0.0.0.0
+Port: 8888
+
+Prometheus:
+  Host: 127.0.0.1
+  Port: 9091
+  Path: /metrics
